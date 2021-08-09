@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Bhumika Deo</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhumika191&label=Profile%20views&color=0e75b6&style=flat" alt="bhumika191" /> </p>
 
 - 🔭 I’m currently working on Arduino Boards
 
@@ -7,12 +8,10 @@
 - 🤔 I’m looking for help with Swift
 
 - 😄 Pronouns: She/Her
-<h1 align="center">Hi 👋, I'm Bhumika Deo</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhumika191&label=Profile%20views&color=0e75b6&style=flat" alt="bhumika191" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bhumika-deo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhumika-deo/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bhumika-deo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhumika-deo/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bhumika12321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bhumika12321" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bhumika12321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhumika12321" height="30" width="40" /></a>
 </p>
