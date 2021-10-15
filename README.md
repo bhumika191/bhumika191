@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bhumika Deo</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhumika191&label=Profile%20views&color=0e75b6&style=flat" alt="bhumika191" /> </p>
 
-- 🔭 I’m currently working in R
+- 🔭 I’m currently working in Arduino
 
-- 🌱 I’m currently learning iOS Development and Data Science
+- 🌱 I’m currently learning IoT Development and Data Science
 
-- 🤔 I’m looking for help with Swift
+- 🤔 I’m looking for help with Drones
 
 - 😄 Pronouns: She/Her
 
