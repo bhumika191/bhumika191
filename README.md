@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in Arduino
 
-- 🌱 I’m currently learning IoT Development and Data Science
+- 🌱 I’m currently learning IoT Development and AR
 
 - 🤔 I’m looking for help with Drones
 
