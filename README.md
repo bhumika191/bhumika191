@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Deep Learning
 
-- 🤔 I’m looking for help with Increasing the accuracy of a project in Transfer Learning
+- 🤔 I’m looking for help with increasing accuracy of a project in Transfer Learning
 
 - 😄 Pronouns: She/Her
 
