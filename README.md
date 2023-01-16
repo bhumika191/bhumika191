@@ -7,8 +7,8 @@
 
 - 🌱 I’m currently learning **Deep Learning and Computer Vision**
 
-- 🤝 I’m looking for help with **increasing accuracy of a project in Transfer Learning**
-
+<!-- - 🤝 I’m looking for help with **increasing accuracy of a project in Transfer Learning**
+ -->
 - 😄 Pronouns: She/Her
 
 <h3 align="left">Connect with me:</h3>
